@@ -8,8 +8,10 @@ This Tool For Termux Security.
 # Installtion
 1. git clone https://github.com/SkyKnight-Team/T3Loc.git
 2. cd T3Loc && ls
-3. chmod +x *
-4. ls
+3. chmod +x * && ls
+ 
+
+4.pip install -r requirements.txt
 5. python register.py
 # Register :
 6. example : 
@@ -28,7 +30,7 @@ Volume up + s
 # Write. ...
 python /$HOME/T3Loc/login.py
  
-# Type..
+# Type..
 Volum down + x
 Write ==> Y and Press Enter
  
