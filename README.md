@@ -11,7 +11,7 @@ This Tool For Termux Security.
 3. chmod +x * && ls
  
 
-4.pip install -r requirements.txt
+4. pip install -r requirements.txt
 5. python register.py
 # Register :
 6. example : 
