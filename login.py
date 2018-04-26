@@ -38,7 +38,7 @@ if l[2] == m[0] :
             sys.stdout.flush()
             #do something
         os.system("clear")
-        print(Fore.YELLOW+"\t[  Wecome ===> "+l[0]+"  ]")
+        print(Fore.YELLOW+"\t[  Welcome ===> "+l[0]+"  ]")
         init(autoreset=True)
     else:
         print(Fore.RED+"Password Not Matched.")
