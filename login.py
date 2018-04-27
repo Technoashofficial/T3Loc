@@ -1,4 +1,4 @@
-from colorama import Fore, Back, init
+UKfrom colorama import Fore, Back, init
 import sys, os, time
 from getpass import getpass
 animation = "|/-\\"
@@ -33,7 +33,7 @@ if l[2] == m[0] :
             #sys.stdout.write(Fore.GREEN+"Logging in..... ")
             time.sleep(0.1)
             sys.stdout.write(Fore.YELLOW+"\r" + animation[i % len(animation)])
-            sys.stdout.write(Fore.GREEN+" ........Logging....... ")
+            sys.stdout.write(Fore.GREEN+" ........Logging In.... ")
             sys.stdout.write(Fore.YELLOW+"" + animation[i % len(animation)]) 
             sys.stdout.flush()
             #do something
