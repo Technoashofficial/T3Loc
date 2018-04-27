@@ -27,6 +27,7 @@ Time         : 4:23 PM (India)           |
 Author Email : epic.skyknight@gmail.com  |
 -----------------------------------------------------------------
 '''
+os.system("clear")
 print(Fore.CYAN+logo)
 print(Fore.YELLOW+about)
 def register():
