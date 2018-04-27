@@ -1,4 +1,4 @@
-UKfrom colorama import Fore, Back, init
+from colorama import Fore, Back, init
 import sys, os, time
 from getpass import getpass
 animation = "|/-\\"
