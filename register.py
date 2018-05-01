@@ -71,5 +71,5 @@ def register():
         print(Fore.RED+"Please Enter First Name.\n")
 register() 
 init(autoreset=True) 
-os.system("mv register.py /data/data/com.termux/files/usr/security")  
+os.system("mv register.py /data/data/com.termux/files/usr/bin")  
    
