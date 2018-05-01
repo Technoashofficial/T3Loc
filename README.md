@@ -25,12 +25,5 @@ Confirm  Password : ----
 9. cd usr && cd etc
 10. nano bash.bashrc
 
-# Type..
-Volume up + s 
 # Write. ...
 python /$HOME/T3Loc/login.py
- 
-# Type..
-Volum down + x
-Write ==> Y and Press Enter
- 
